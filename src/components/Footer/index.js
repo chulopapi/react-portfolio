@@ -9,7 +9,7 @@ function Footer() {
             <a href="https://github.com/chulopapi" target="_blank"><i className="fab fa-github"></i></a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/marlon.guandique/"
+            <a href="https://www.linkedin.com/in/marlon-f-guandique-1067775/"
               target="blank"><i className="fab fa-linkedin"></i></a>
           </li>
         </ul>
