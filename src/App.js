@@ -5,8 +5,7 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
-// import React from 'react';
-// import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
