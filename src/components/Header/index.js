@@ -11,7 +11,7 @@ function Header(props) {
   } = props;
 
   return (
-    <header className="flex-row black">
+    <header className="flex-row brown">
       <h2 id="header">
         <a data-testid="link" href="/">
           <span role="img" aria-label="name"></span> Marlon Guandique

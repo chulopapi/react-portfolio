@@ -16,7 +16,7 @@ function App() {
     <div id="html">
       <Header pageSelected={pageSelected}
         setPageSelected={setPageSelected} />
-      <main className="light-blue darken-4 white-text">
+      <main className="light-blue darken-2 white-text">
         {(pageSelected === "about me") && <About />}
         {(pageSelected === "portfolio") && <Portfolio />}
         {(pageSelected === "contact") && <Contact />}
