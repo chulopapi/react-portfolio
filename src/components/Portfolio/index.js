@@ -1,7 +1,7 @@
 //Portfolios
 import React from 'react';
 import Project from '../Project';
-import safr from "../../assets/images/SafeTravels.png";
+import SafeTravels from "../../assets/images/SafeTravels.png";
 import safr from "../../assets/images/safr-2.png";
 import '../../App.css';
 
@@ -12,14 +12,14 @@ function Portfolio() {
         name: 'SafeTravels',
         languages: "HTML, CSS, Javascript, API, Materialize ",
         description: "A website that keeps you safe while traveling during COVID-19.",
-        src: safr,
+        src: SafeTravels,
         deployed: "https://chulopapi.github.io/safeTravels",
         github: "https://github.com/chulopapi/safeTravels"
       },
     {
       name: 'Safr',
       languages: "HTML, CSS, Javascript, SQL ",
-      description: "CMS-style blog site where users can publish posts, reviews, and safety measures offered by various businesses during COVID-19. Mobile friendly website that allows the users to get up-to-date information regarding dining, entertainment, and the outdoors.",
+      description: "CMS blog site where you can posts, reviews, and businesses businesses that are keeping you safe during COVID-19. Mobile app is a must",
       src: safr,
       deployed: "https://ssafr.herokuapp.com/login",
       github: "https://github.com/NGDino/safety-first"

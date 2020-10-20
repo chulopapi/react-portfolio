@@ -1,4 +1,19 @@
-.App {
+#about, #portfolio, #contact, #resume {
+  margin-top: 0;
+  padding-top: 5%;
+}
+
+#header {
+  margin-top: 0%;
+  padding: 2%;
+  margin-bottom: 0%;
+}
+
+#about {
+  padding-top: 50px
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -17,6 +32,7 @@
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
+  
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
