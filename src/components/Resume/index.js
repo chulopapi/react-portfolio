@@ -7,7 +7,7 @@ function Resume() {
     return (
         <section className="my-5 container">
             <h2 id="about">Resume</h2>
-            <a href="https://docs.google.com/document/getthepath/edit#">Download</a>
+            <a href="https://drive.google.com/file/d/1W0muK2z61Zg-Z3VSWjc9x_b1qdN9nG1c/view?usp=sharing">Download</a>
             <h4>SUMMARY</h4>
 Information Security Engineer, Full-Stack Web Developer
 
