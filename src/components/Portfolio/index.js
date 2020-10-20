@@ -1,4 +1,4 @@
-//Portfolios
+//Projects - Portfolio
 import React from 'react';
 import Project from '../Project';
 import SafeTravels from "../../assets/images/SafeTravels.png";
@@ -19,7 +19,7 @@ function Portfolio() {
     {
       name: 'Safr',
       languages: "HTML, CSS, Javascript, SQL ",
-      description: "CMS blog site where you can posts, reviews, and businesses businesses that are keeping you safe during COVID-19. Mobile app is a must",
+      description: "CMS blog site where you can posts, reviews, and businesses that are keeping you safe during COVID-19. Mobile app is a must",
       src: safr,
       deployed: "https://ssafr.herokuapp.com/login",
       github: "https://github.com/NGDino/safety-first"
