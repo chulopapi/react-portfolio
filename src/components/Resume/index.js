@@ -5,9 +5,9 @@ import './Resume.css';
 
 function Resume() {
     return (
-        <section className="my-5 container">
+        <section className="my-4 container">
             <h2 id="about">Resume</h2>
-            <a href="https://drive.google.com/file/d/1W0muK2z61Zg-Z3VSWjc9x_b1qdN9nG1c/view?usp=sharing">Download</a>
+            <a href="https://drive.google.com/file/d/1W0muK2z61Zg-Z3VSWjc9x_b1qdN9nG1c/view?usp=sharing">Download my Resume</a>
             <h4>SUMMARY</h4>
 Information Security Engineer, Full-Stack Web Developer
 
@@ -44,11 +44,11 @@ Information Security Engineer, Full-Stack Web Developer
             </ul>
             <h4>EDUCATION</h4>
             <p>Certificate in Full Stack Web Development  <br />
-University of California, Berkeley| San Francisco Bay Area, CA	                                   May 2020 – November 2020<br />
+University of California, Berkeley| May 2020 – November 2020<br />
             </p>
             <p>
                 Bachelor of Arts in Spanish Linguistics/Emphasis in Information Technology<br />
-University of California, Berkeley| Berkeley, CA	                                            May 1995 – June 1998   <br />
+University of California, Berkeley| May 1995 – June 1998   <br />
             </p>
 
         </section>

@@ -14,7 +14,7 @@ function Header(props) {
     <header className="flex-row brown">
       <h2 id="header">
         <a data-testid="link" href="/">
-          <span role="img" aria-label="name"></span> Marlon Guandique
+          <span role="img" aria-label="name"></span>Marlon Guandique
       </a>
       </h2>
       <Nav pageSelected={pageSelected}

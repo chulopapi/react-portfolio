@@ -16,13 +16,15 @@ function App() {
     <div id="html">
       <Header pageSelected={pageSelected}
         setPageSelected={setPageSelected} />
-      <main className="light-blue darken-2 white-text">
+      <main className="light-blue darken-3 white-text">
         {(pageSelected === "about me") && <About />}
         {(pageSelected === "portfolio") && <Portfolio />}
         {(pageSelected === "contact") && <Contact />}
         {(pageSelected === "resume") && <Resume />}
       </main>
-      <Footer></Footer>
+      <Footer>
+        
+      </Footer>
     </div>
   );
 }
