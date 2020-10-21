@@ -4,7 +4,7 @@ function Footer() {
     return (
         <section id="footer">
             <nav className= "blue lighten-3">
-                <ul id="nav-mobile" class="left hide-on-med-and-down">
+                {/* <ul id="nav-mobile" class="left hide-on-med-and-down"> */}
                     <ul id="external links">
                         <li>
                             <a href="https://github.com/chulopapi" target="blank"><i className="fab fa-github"></i></a>
@@ -14,7 +14,7 @@ function Footer() {
                                 target="blank"><i className="fab fa-linkedin"></i></a>
                         </li>
                     </ul>
-                </ul>
+                {/* </ul> */}
             </nav>
         </section>
     );
