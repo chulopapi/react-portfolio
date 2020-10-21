@@ -54,12 +54,7 @@ function ContactForm() {
 
   return (
     <section className="row bg-text">
-      <div className="col s12 m6">
-        <h2 className="center" id="contact" data-testid="h1tag">Contact me</h2>
-
-        <h6 className="center" htmlFor="email">Email address: marlon.guandique@gmail.com</h6>
-        <h6 className="center" htmlFor="email">Phone Number: 408-999-8877</h6>
-      </div>
+     
       <div className="col s12 m6">
         <h2 className="center" id="contact" data-testid="h1tag">Send Email</h2>
         <form id="contact-form" onSubmit={handleSubmit}>
@@ -82,6 +77,10 @@ function ContactForm() {
           )}
           <button className="btn-small cyan" type="submit" data-testid="button">Submit</button>
         </form>
+      </div>
+       <div className="col s12 m6">
+        <h6 className="center" htmlFor="email">email address: marlon.guandique@gmail.com</h6>
+        <h6 className="center" htmlFor="email">phone number: 408-999-8877</h6>
       </div>
     </section>
   )

@@ -8,7 +8,9 @@ function Nav(props) {
     } = props;
 
     return (
+
         <nav className="blue lighten-3">
+
             <ul className="flex-row">
                 <li className={`mx-2 ${(pageSelected === "about me") ? 'active' : ''}`}>
                     <a data-testid="about" href="#about" onClick={() => setPageSelected("about me")}>
@@ -33,6 +35,7 @@ function Nav(props) {
 
             </ul>
         </nav>
+
     );
 }
 
