@@ -9,7 +9,7 @@
 `For this project we need to run React JS, Node JS, Javascript`
 
 # Usage
-`This project showcase how react is an awesome tool to build responsive web application.  In this case, I am showing some of the work I have worked to showcase my full web development skills`
+`This project showcases how react is an awesome tool to build responsive web application.  In this case, I have a portfolio up that shows my work that I have produced as Full Stack Web Developer`
 
 # Contribution
 `Created by Marlon Guandique`
