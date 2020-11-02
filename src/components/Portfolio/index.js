@@ -3,6 +3,7 @@ import React from 'react';
 import Project from '../Project';
 import SafeTravels from "../../assets/images/SafeTravels.png";
 import safr from "../../assets/images/safr-2.png";
+import colossal-closer from "../../assets/images/colossal-closer.png"
 import '../../App.css';
 
 
@@ -21,6 +22,14 @@ function Portfolio() {
       languages: "HTML, CSS, Javascript, SQL, Materialize",
       description: "CMS blog site where you can posts, reviews, and review businesses that are keeping you safe during COVID-19. Mobile app is a must",
       src: safr,
+      deployed: "https://ssafr.herokuapp.com/login",
+      github: "https://github.com/NGDino/safety-first"
+    },
+    {
+      name: 'Colossal Closer',
+      languages: "HTML, CSS, Javascript, MongoDB, Mongoose,ChakraUI, Materialize, IndexedDB, ",
+      description: "Colossal Closer is a Customer Relationship Management application that allows a company to track employee-customer interactions and provide relevant data for the company to view progress",
+      src: colossal-closer,
       deployed: "https://ssafr.herokuapp.com/login",
       github: "https://github.com/NGDino/safety-first"
     },
