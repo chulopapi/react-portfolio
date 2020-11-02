@@ -30,7 +30,7 @@ function Portfolio() {
       languages: "HTML, CSS, Javascript, MongoDB, Mongoose,ChakraUI, Materialize, IndexedDB, ",
       description: "Colossal Closer is a Customer Relationship Management application that allows a company to track employee-customer interactions and provide relevant data for the company to view progress",
       src: colossalcloser,
-      deployed: "https://colossalcloser.herokuapp.com/login",
+      deployed: "https://colossal-closer.herokuapp.com",
       github: "https://github.com/nmcanall/colossal-closer"
     },
     
